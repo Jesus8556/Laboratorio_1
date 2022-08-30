@@ -1,0 +1,27 @@
+html{
+    margin: 0 auto;
+    border: 2px black solid;
+    width: 500px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+#container{
+    border: 2px solid black;
+    width: 800px;
+    margin: 0px;
+    text-align: normal;
+    
+}
+
+.centradoAzul{
+    background: #2F8EF9;
+    border: 1px black solid;
+    text-align: center;
+    width: 100% ;
+    color: white;
+}
+
+h2{
+    color: skyblue;
+}
